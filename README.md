@@ -1,7 +1,7 @@
 # 🏀 NBA Daily Report Agent: An Agentic AI Approach to On-Demand Sports Analytics
 
 ## 📑 Executive Summary
-This project builds an autonomous AI agent that generates structured, evidence-backed NBA team reports on demand — delivered through a private Telegram bot.
+This project builds an autonomous AI agent that generates structured, evidence-backed NBA team reports on demand: delivered through a private Telegram bot.
 
 The core challenge wasn't gathering data; it was **constraining a large language model to behave like a disciplined analyst** rather than a confident-sounding fabricator. Most LLM applications fail in production because the model "fills in" missing details under formatting pressure, drifts from instructions over long outputs, or recombines real-looking facts into false claims.
 
