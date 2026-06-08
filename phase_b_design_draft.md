@@ -15,7 +15,7 @@
 
 **Value proposition (the bar every feature serves):** computes numbers that exist as text nowhere (garbage-time-filtered ratings, on/off splits from raw play-by-play), attributes every claim to a computation or a source, and runs a second model on a different base to stress-test the narrative before the user sees it. *A general LLM summarizes what's already written; this computes what isn't, and verifies it.*
 
-**Out of scope (later phases, do not build now):**
+**Out of scope (later phases, will be built later on, not now in this phase):**
 - Matchup mode (two-team preview) — Phase C.
 - References-finder + coach/teacher agent — Phase D.
 - Multi-team, scheduled pushes, persistence beyond a session, web UI.
